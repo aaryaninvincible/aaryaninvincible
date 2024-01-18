@@ -7,7 +7,7 @@ I'm a software engineer and full-stack developer passionate about crafting digit
 - 👯 I’m looking to collaborate on open-source projects related to web development or machine learning.
 - 🤔 I’m looking for help with optimizing database queries for large-scale applications.
 - 💬 Ask me about web development, JavaScript frameworks, or best practices in software engineering.
-- 📫 How to reach me: You can reach me via email at aaryan@email.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can reach me via email at aryanraikwar78@email.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new trails in my free time!
 
@@ -33,5 +33,6 @@ Here are some projects I'm proud of:
 - [LinkedIn](https://www.linkedin.com/in/aaryaninvincible)
 - [Twitter](https://twitter.com/aaryaninvincible)
 - [Portfolio](https://www.aaryaninvincible.com)
+- [Instagram](https://www.aaryaninvincible.com)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on something cool!
