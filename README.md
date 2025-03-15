@@ -7,7 +7,7 @@ I'm a software engineer and full-stack developer passionate about crafting digit
 - 👯 I’m looking to collaborate on open-source projects related to web development or machine learning.
 - 🤔 I’m looking for help with optimizing database queries for large-scale applications.
 - 💬 Ask me about web development, JavaScript frameworks, or best practices in software engineering.
-- 📫 How to reach me: You can reach me via email at aryanraikwar78@email.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can reach me via email at aryanraikwar78@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new trails in my free time!
 
@@ -20,13 +20,6 @@ I'm a software engineer and full-stack developer passionate about crafting digit
 - MongoDB
 - Git
 
-### Projects:
-
-Here are some projects I'm proud of:
-
-- [Project 1](link): A web application for managing personal finances.
-- [Project 2](link): A machine learning model for predicting stock prices.
-- [Project 3](link): An e-commerce website with real-time inventory management.
 
 ### Connect with Me:
 
